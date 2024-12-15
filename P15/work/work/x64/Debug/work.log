@@ -1,0 +1,4 @@
+﻿  work.cpp
+C:\Users\josh9\OneDrive\桌面\程式設計\HW7\P15\work\work\work.cpp(9,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\josh9\OneDrive\桌面\程式設計\HW7\P15\work\work\work.cpp(10,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  work.vcxproj -> C:\Users\josh9\OneDrive\桌面\程式設計\HW7\P15\work\x64\Debug\work.exe
